@@ -1,11 +1,15 @@
-👋 Hi, I’m Shekhar Pareek
+- 👋 Hi, I’m Shekhar Pareek
 
-👀 I’m a Front-End-Developer
+* 👀 I’m a Front-End-Developer
 
-🌱I Transform Chai Into Code </>
++ 🌱I Transform ☕Chai Into Code </>
 
-Front-End-Devloper at SunArc
+- Front-End-Developer at SunArc
 
-📫 How to reach me
+* 📫 How to reach me
 
-Email :- shekharparee30@gmail.com
++ Email :- shekharparee30@gmail.com
+
+     ![image](https://github.com/ShekharPareek/-ShekharPareek/assets/108127963/95af4a0b-b21c-4352-804d-9fa6fbe13bee)
+
+

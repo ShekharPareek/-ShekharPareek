@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shekhar Pareek
+
+<h2 align="left">👋 Hi, I’m Shekhar Pareek</h2>
 
 * 👀 I’m a Front-End-Developer
 
@@ -24,7 +25,9 @@
 ###
 
 
-* 📫 How to reach me
+<h2 align="left">📫 How to reach me</h2>
+
+###
 
 + Email :- shekharparee30@gmail.com
 

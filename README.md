@@ -14,4 +14,6 @@
 
      ![image](https://i.ibb.co/BV1n3z0B/illustration-2.png)
 
+<img src="image_url_or_path" alt="Alt Text" width="200" height="100">
+
 

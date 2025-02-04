@@ -14,7 +14,8 @@
 
      ![image](https://i.ibb.co/BV1n3z0B/illustration-2.png)
   
-![Alt Text](image_url_or_path){ width=200 height=100 }
+![Alt Text](https://i.ibb.co/BV1n3z0B/illustration-2.png | width=200)
+
 
 
 
